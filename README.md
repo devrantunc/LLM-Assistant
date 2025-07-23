@@ -14,6 +14,7 @@ llm-assistant/
 │   ├── package.json → React bağımlılıkları ve scriptler
 │   └── .gitignore  → node_modules ve build dizinini dışlar
 │
+
 ├── server/         → .NET backend API
 │   ├── Program.cs  → Uygulama giriş noktası (HttpClient, CORS, Controller)
 │   ├── Controllers/ → ChatController.cs (OpenRouter API entegrasyonu)
